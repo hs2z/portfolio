@@ -9,7 +9,7 @@ const About = () => {
       <div className="container-custom">
         <SectionTitle 
           title="About Me" 
-          subtitle="Dedicated to building secure and scalable solutions"
+  subtitle="Cybersecurity engineer & MERN Stack Developer"
         />
         
         <div className="grid md:grid-cols-2 gap-6 md:gap-8 lg:gap-12 items-center">
