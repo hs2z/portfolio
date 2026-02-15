@@ -38,7 +38,7 @@ const Hero = () => {
                       <h3 className="text-lg font-bold text-white mb-2">
                         Contact Me{" "}
                       </h3>
-                      <p className="text-gray-400 text-sm">
+                      <p className="text-black-400 text-sm">
                         {portfolioInfo.whatsapp}
                       </p>
                     </a>
